@@ -1,8 +1,10 @@
 <?php
   // DB Details -- Please replace database credentials below with your own $db_name, $db_user and $db_pass.
-  $db_name = 'seb_products';
-  $db_user = 'root';
-  $db_pass = 'root';
+  $db_name = 'chiahoutan_products';
+  $db_user = 'chiahoutan5309';
+  $db_pass = 'github5309';
+
+  
   // We now create a secure connection to the database using PDO
   $db      = new PDO("mysql:host=localhost;dbname=$db_name;charset=utf8mb4", $db_user, $db_pass);
 
