@@ -1,6 +1,6 @@
 {
     "version": 3,
-    "mappings": "ACEA,SAAS;AAOT,SAAS;ADRT,AAAA,IAAI,CAAA;EACA,UAAU,EAAE,GAAG;CAClB;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,ECNI,OAAO;CDOnB",
+    "mappings": "ACEA,SAAS;AAOT,SAAS;ADRT,AAAA,IAAI,CAAA;EACA,UAAU,ECQD,OAAsB;CDPlC;;AAED,AAAA,EAAE,CAAC;EACC,KAAK,ECNI,OAAO;CDOnB",
     "sources": [
         "main.scss",
         "partials/_variables.scss"
